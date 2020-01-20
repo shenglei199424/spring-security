@@ -1,0 +1,16 @@
+该项目将制定一套供公共调用的登录系统
+1.spring-security-parent 用于版本管理
+2.spring-security-core 核心代码
+3.spring-security-app app端登录
+4.spring-security-web web端登录
+5.spring-security-demo 案例
+
+第一节课：MockMvc的使用,以及GetMapping,PostMapping,RequestMapping,RestController,SpringbootApplication,
+@RunWith(SpringRunner.class)
+@SpringBootTest(classes =MockController.class )
+restful风格：url仅仅表示资源，json形式返回
+
+第二节课:@PathVariable从url中获取变量
+·       @PathVariable中使用正则表达式
+         @JsonView使密码等返回值隐藏
+

@@ -24,7 +24,7 @@
   </properties>
 
   <dependencyManagement>
-    <!--spring-io版本管理-->
+    <!--spring-io版本管理 platform-bom bom结尾的只依赖版本，不实际依赖-->
     <dependencies>
       <dependency>
         <groupId>io.spring.platform</groupId>
