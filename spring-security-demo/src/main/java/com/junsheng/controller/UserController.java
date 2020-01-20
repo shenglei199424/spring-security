@@ -3,10 +3,7 @@ package com.junsheng.controller;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.junsheng.entity.User;
 import org.springframework.http.MediaType;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +16,8 @@ import java.util.List;
 @RequestMapping(value = "/user",produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 public class UserController {
     @JsonView(User.UserListView.class)
-    public List<User> get (){
+    @GetMapping
+    public List<User> get (User username){
         List<User> users = new ArrayList<>();
         User user1 = new User("sl","123456","男");
         User user2 = new User("sl","123456","男");
@@ -35,5 +33,13 @@ public class UserController {
         User user1 = new User("sl","123456","男");
         return user1;
     }
+    /*@PostMapping
+    public User create(@RequestBody User user){
+        System.out.println(user.getUsername());
+        System.out.println(user.getPassword());
+        System.out.println(user.getSex());
+
+        return user;
+    }*/
 
 }

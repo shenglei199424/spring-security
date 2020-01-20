@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7574d4f5-bf87-486d-8027-df5e5ce7f52f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/SecurityDemoRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/main/resources/application-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-app/src/main/java/com/junsheng/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-app/src/main/java/com/junsheng/controller/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-app/src/main/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-app/src/main/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-app/src/main/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-app/src/main/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-app/src/test/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-app/src/test/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-app/src/test/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-app/src/test/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-core/src/main/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-core/src/main/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-core/src/main/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-core/src/main/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-core/src/test/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-core/src/test/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-core/src/test/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-core/src/test/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/main/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/main/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/main/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/main/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/test/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/test/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/test/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/test/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/src/main/java/com/junsheng/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-web/src/main/java/com/junsheng/controller/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/src/main/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-web/src/main/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/src/main/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-web/src/main/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/src/test/resource/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-web/src/test/resources/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/src/test/resource/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-web/src/test/resources/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-web/target/classes/com/junsheng/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/readme" beforeDir="false" afterPath="$PROJECT_DIR$/doc/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MockController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MockController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+            <state relative-caret-position="258">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#656#657#0" expanded="true" />
@@ -74,8 +49,8 @@
       <file leaf-file-name="SecurityDemoRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/SecurityDemoRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="228">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,11 +93,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="readme" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+            <state relative-caret-position="126">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,15 +136,15 @@
         <option value="$PROJECT_DIR$/spring-security-core/pom.xml" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/SecurityDemoRunner.java" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/main/resource/application-test.yml" />
-        <option value="$PROJECT_DIR$/doc/readme" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/main/resource/application.yml" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/test/resources/webapp/application.yml" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/test/resources/webapp/application-test.yml" />
         <option value="$PROJECT_DIR$/spring-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/doc/readme" />
+        <option value="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java" />
         <option value="$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java" />
-        <option value="$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -246,6 +230,11 @@
             <path>
               <item name="spring-security-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-security-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-security-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-security-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -311,6 +300,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-security-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecurityDemoRunner">
+  <component name="RunManager" selected="JUnit.MockController.whenQuerySuccess">
     <configuration name="SecurityDemoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.junsheng.SecurityDemoRunner" />
       <module name="spring-security-demo" />
@@ -377,17 +374,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.junsheng.controller.test" />
-      <module name="spring-security-web" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.junsheng.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="MockController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-security-demo" />
@@ -403,6 +389,29 @@
       <option name="MAIN_CLASS_NAME" value="com.junsheng.controller.MockController" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MockController.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junsheng.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.junsheng.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.junsheng.controller.MockController" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -501,20 +510,20 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="JUnit.MockController.whenQuerySuccess" />
       <item itemvalue="Application.SecurityDemoRunner" />
       <item itemvalue="JUnit.MockController.getUserDetail" />
       <item itemvalue="Spring Boot.SecurityDemoRunner" />
       <item itemvalue="JUnit.MockController" />
+      <item itemvalue="JUnit.MockController.addUser" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecurityDemoRunner" />
         <item itemvalue="JUnit.MockController.whenQuerySuccess" />
-        <item itemvalue="JUnit.MockController" />
+        <item itemvalue="JUnit.MockController.addUser" />
         <item itemvalue="JUnit.MockController.getUserDetail" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.SecurityDemoRunner" />
+        <item itemvalue="JUnit.MockController" />
       </list>
     </recent_temporary>
   </component>
@@ -528,7 +537,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579154878269</updated>
-      <workItem from="1579154883421" duration="31472000" />
+      <workItem from="1579154883421" duration="34677000" />
     </task>
     <task id="LOCAL-00001" summary="建立项目依赖">
       <created>1579491170078</created>
@@ -537,43 +546,50 @@
       <option name="project" value="LOCAL" />
       <updated>1579491170078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="@PathVariable从url中获取变量&#10;@PathVariable中使用正则表达式&#10;@JsonView使密码等返回值隐藏">
+      <created>1579509210095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579509210095</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MockController_getUserDetail - 2020.01.20 at 15h 01m 52s.xml">
-      <configuration name="MockController.getUserDetail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController_getUserDetail - 2020.01.20 at 15h 04m 28s.xml">
-      <configuration name="MockController.getUserDetail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController - 2020.01.20 at 15h 10m 54s.xml">
-      <configuration name="MockController" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 15h 11m 37s.xml">
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 24m 31s.xml">
       <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 15h 13m 41s.xml">
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 25m 57s.xml">
       <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MockController_getUserDetail - 2020.01.20 at 15h 14m 16s.xml">
-      <configuration name="MockController.getUserDetail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController - 2020.01.20 at 16h 15m 13s.xml">
-      <configuration name="MockController" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController - 2020.01.20 at 16h 15m 45s.xml">
-      <configuration name="MockController" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 16h 16m 57s.xml">
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 27m 09s.xml">
       <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 16h 18m 44s.xml">
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 27m 53s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 30m 46s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 31m 14s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 34m 02s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 34m 43s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 36m 06s.xml">
+      <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockController_whenQuerySuccess - 2020.01.20 at 17h 37m 02s.xml">
       <configuration name="MockController.whenQuerySuccess" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31472000" />
+    <option name="totallyTimeSpent" value="34677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -590,7 +606,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="10" visible="true" weight="0.46782988" />
+      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.46782988" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32824427" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -601,7 +617,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3293348" />
       <window_info anchor="bottom" id="Spring" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.3293348" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31556502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31556502" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -657,11 +673,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="建立项目依赖" />
-    <option name="LAST_COMMIT_MESSAGE" value="建立项目依赖" />
+    <MESSAGE value="@PathVariable从url中获取变量&#10;@PathVariable中使用正则表达式&#10;@JsonView使密码等返回值隐藏" />
+    <option name="LAST_COMMIT_MESSAGE" value="@PathVariable从url中获取变量&#10;@PathVariable中使用正则表达式&#10;@JsonView使密码等返回值隐藏" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -746,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-security-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2070">
@@ -797,6 +807,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -811,10 +828,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doc/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="126">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/SecurityDemoRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -823,39 +867,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-security-demo/src/test/java/com/junsheng/controller/MockController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        <state relative-caret-position="258">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#656#657#0" expanded="true" />
             <element signature="e#695#696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/SecurityDemoRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-demo/src/main/java/com/junsheng/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

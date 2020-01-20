@@ -14,3 +14,10 @@ restful风格：url仅仅表示资源，json形式返回
 ·       @PathVariable中使用正则表达式
          @JsonView使密码等返回值隐藏
 
+第三节课: @RequestBody映射请求体到java方法参数
+          日期类型参数的处理
+          @Valid注解和BingingResult验证请求参数的合法性并处理验证结果
+@RequestParam注解可以使用于 get
+@RequestBody注解适用于 post put delete
+
+
