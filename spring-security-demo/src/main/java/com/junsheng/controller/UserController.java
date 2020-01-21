@@ -17,7 +17,7 @@ import java.util.List;
 public class UserController {
     @JsonView(User.UserListView.class)
     @GetMapping
-    public List<User> get (User username){
+    public List<User> get (){
         List<User> users = new ArrayList<>();
         User user1 = new User("sl","123456","男");
         User user2 = new User("sl","123456","男");
@@ -33,13 +33,13 @@ public class UserController {
         User user1 = new User("sl","123456","男");
         return user1;
     }
-    /*@PostMapping
+    @PostMapping
     public User create(@RequestBody User user){
         System.out.println(user.getUsername());
         System.out.println(user.getPassword());
         System.out.println(user.getSex());
 
         return user;
-    }*/
+    }
 
 }

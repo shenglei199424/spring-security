@@ -30,7 +30,8 @@ public class MockController {
     public void whenQuerySuccess() throws Exception {
         String contentAsString = mockMvc.perform(MockMvcRequestBuilders.get("/user")
                 .contentType(MediaType.APPLICATION_JSON_UTF8)
-                .param("username","sl"))
+                /*.content("{\"username\":\"sl\",\"sex\":\"男\"}")*/
+                )
                 .andExpect(MockMvcResultMatchers.status().isOk())
                 .andExpect(MockMvcResultMatchers.jsonPath("$.length()").value(3))
                 .andReturn().getResponse().getContentAsString();

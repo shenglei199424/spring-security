@@ -17,7 +17,22 @@ restful风格：url仅仅表示资源，json形式返回
 第三节课: @RequestBody映射请求体到java方法参数
           日期类型参数的处理
           @Valid注解和BingingResult验证请求参数的合法性并处理验证结果
-@RequestParam注解可以使用于 get
-@RequestBody注解适用于 post put delete
+@RequestParam注解可以使用于
+ get请求时：url?后面的参数可用 form-data、x-www-form-urlencoded不可用
+ eg1:
+ (@RequestParam("username") String username)
+ eg2:
+ (User user)
+ eg3:
+  (@RequestParam Map map)
+
+  post请求时:url?后面的参数可用 form-data、x-www-form-urlencoded可用
+  eg1:
+   (@RequestParam("username") String username)
+  eg2:
+    (User user)
+  eg3:
+     (@RequestParam Map map)
+@RequestBody注解适用于      post delete put
 
 
